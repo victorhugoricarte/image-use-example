@@ -1,0 +1,11 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: azure;
+    color:rgb(60, 61, 62);
+}
+code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #eeeeee;
+    border-radius: 3px;
+    padding: 0 3px;
+}
